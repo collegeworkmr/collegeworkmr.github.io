@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mrunalmunot
+- 👋 Hi, I’m @collegeworkmr
 - 👀 I’m interested in the new technologies..
 - 🌱 I’m currently learning Computer Engineering.
 - 💞️ I’m looking to collaborate on project related to python.
 - 📫 How to reach me https://www.linkedin.com/in/mrunalmunot/
-- 📝 Visit blog https://mrunalmunot.wordpress.com/
-- 💼 Visit Portfolio https://mrunalmunot.github.io/
+- 💼 Visit Portfolio https://collegeworkmr.github.io/
